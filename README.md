@@ -24,13 +24,19 @@
 
 Выполните команду git status и запомните результат.
 
+[![Screenshot_36.png](https://s.iimg.su/s/27/h4a77gAM1U2YuiXDg9Q1LSWUeDYnrbOnkOdg0AG5.png)](https://iimg.su/i/bKMMts)
+
 Отредактируйте файл README.md любым удобным способом, тем самым переведя файл в состояние Modified.
+
+[![Screenshot_37.png](https://s.iimg.su/s/27/zLsDSHdLUokj0j3AREDEcy0PSV2yPj4aMi9QrfXU.png)](https://iimg.su/i/kP5hp3)
 
 Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
 
 Теперь посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
 Переведите файл в состояние staged (или, как говорят, просто добавьте файл в коммит) командой git add README.md.
 И ещё раз выполните команды git diff и git diff --staged. Поиграйте с изменениями и этими командами, чтобы чётко понять, что и когда они отображают.
+
+[![Screenshot_38.png](https://s.iimg.su/s/27/UT8l4bUBnuZxwrkoNQOMqICikZ7tPotTQq4kGEPx.png)](https://iimg.su/i/yjyvds)
 
 Теперь можно сделать коммит git commit -m 'First commit'.
 
@@ -43,6 +49,8 @@
 Добавьте файл .gitignore в следующий коммит (git add...).
 
 На одном из следующих блоков вы будете изучать Terraform, давайте сразу создадим соотвествующий каталог terraform и внутри этого каталога — файл .gitignore по примеру: https://github.com/github/gitignore/blob/master/Terraform.gitignore.
+
+[![Screenshot_39.png](https://s.iimg.su/s/27/IRGIGjpP9H2sUdYb7qsDsT0a1HgfQvFhNV0dS1RV.png)](https://iimg.su/i/8QAgtu)
 
 В файле README.md опишите своими словами, какие файлы будут проигнорированы в будущем благодаря добавленному .gitignore.
 
@@ -87,6 +95,7 @@ terraform.rc - будут проигнорированы все файлы с и
 
 Закоммитьте результат работы с комментарием Moved and deleted.
 
+[![Screenshot_40.png](https://s.iimg.su/s/27/eVUXoZJargNG818U5SewnWhIS4oGksetRhz9E8Sh.png)](https://iimg.su/i/DYeVnm)
 
 ### Проверка изменения
 
@@ -104,6 +113,7 @@ Moved and deleted — после удаления и перемещения вр
 
 Проверьте это, используя комманду git log. Подробно о формате вывода этой команды мы поговорим на следующем занятии, но посмотреть, что она отображает, можно уже сейчас.
 
+[![Screenshot_41.png](https://s.iimg.su/s/27/Ccg08L8OrHoxhFW4dSDk0XbfBQ1aeRybhJJHakIn.png)](https://iimg.su/i/YoFo4S)
 
 ### Отправка изменений в репозиторий
 
