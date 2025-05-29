@@ -79,6 +79,8 @@ https://www.jetbrains.com/help/pycharm/commit-and-push-changes.html – здес
 
 [![Screenshot_47.png](https://s.iimg.su/s/29/WyErirnE44ftujvXwfwFfYtmEQyMJsPltcAcV96W.png)](https://iimg.su/i/uM3Hfx)
 
+[![Screenshot_48.png](https://s.iimg.su/s/29/2taeUxjz4FhFlhuC7T2RoM3iE0OgwseUVgxuqPFa.png)](https://iimg.su/i/7wsbaO)
+
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в github, gitlab и bitbucket*.  
 
 *Прилагаю:*
