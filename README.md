@@ -71,7 +71,9 @@ https://www.jetbrains.com/help/pycharm/commit-and-push-changes.html – здес
 И если вверху экрана выбрать свою операционную систему, то можно посмотреть горячие клавиши для работы с гитом. 
 Подробней о визуальном интерфейсе будет рассказано на одной из следующих лекций.
 
+[![Screenshot_47.png](https://s.iimg.su/s/29/WyErirnE44ftujvXwfwFfYtmEQyMJsPltcAcV96W.png)](https://iimg.su/i/uM3Hfx)
 
+[![Screenshot_48.png](https://s.iimg.su/s/29/2taeUxjz4FhFlhuC7T2RoM3iE0OgwseUVgxuqPFa.png)](https://iimg.su/i/7wsbaO)
 
 
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в github, gitlab и bitbucket*.  
