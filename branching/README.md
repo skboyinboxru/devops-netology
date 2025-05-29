@@ -298,3 +298,32 @@ Fast-forward
 
 * задание выполнено частично или не выполнено вообще;
 * в логике выполнения заданий есть противоречия и существенные недостатки.
+
+### Решение
+[![Screenshot_49.png](https://s.iimg.su/s/29/PkyxxanQ0P7gTtbhabGsjOPNaEJxWnTDPcBXb6G7.png)](https://iimg.su/i/YDTEE9)
+
+[![Screenshot_60.png](https://s.iimg.su/s/29/MUaDJp0tznXKTfAbxGFmwG0mbcIIqIsF5b4ROHLm.png)](https://iimg.su/i/ld2Yf2)
+
+[![Screenshot_50.png](https://s.iimg.su/s/29/5kqD1EPccTAdCltAPmBcwFsIUGdcaFkGZtY7AoIS.png)](https://iimg.su/i/UuUWAb)
+
+[![Screenshot_51.png](https://s.iimg.su/s/29/BHIDhmYa8JeKjb1brDJsJYd3VTN366cFGuJE3Ffq.png)](https://iimg.su/i/tJYOZq)
+
+[![Screenshot_52.png](https://s.iimg.su/s/29/B89Npzw9kEy9V1N7wcm8gqoYsTKHTNfivK1scbRK.png)](https://iimg.su/i/R3O1a8)
+
+[![Screenshot_54.png](https://s.iimg.su/s/29/MJb511aGsBCfEaXr0CgMRlNivBQ10fOaHcVU882A.png)](https://iimg.su/i/4ThBJH)
+
+[![Screenshot_53.png](https://s.iimg.su/s/29/dWTnWBLteS8B1S3QHcTc468i1LREUyfA4t1Hy6HZ.png)](https://iimg.su/i/wEBvSL)
+
+[![Screenshot_55.png](https://s.iimg.su/s/29/CrnpcRmZqq8EONPPqEESaWjsmw1cuRbrRbSHgnkW.png)](https://iimg.su/i/xo6Pll)
+
+[![Screenshot_56.png](https://s.iimg.su/s/29/K8rS1YDBIcZSEvc389ZjmGMiumBbZRjJW9OWQpHW.png)](https://iimg.su/i/I5leIF)
+
+[![Screenshot_57.png](https://s.iimg.su/s/29/u8l1hMpL66eHS795WqBSmJI2lQXRbkbuzCuspH3z.png)](https://iimg.su/i/pyQoVX)
+
+[![Screenshot_58.png](https://s.iimg.su/s/29/FSnGPTblrmbYOWZfCkwbFPYLYKq6QH5ObE4HlykR.png)](https://iimg.su/i/O8TWwP)
+
+[![Screenshot_59.png](https://s.iimg.su/s/29/ZJpBDMPyrJM46FSBlyL2QNfaqxqCRVPslGaTtRBw.png)](https://iimg.su/i/EiIVno)
+
+
+https://github.com/skboyinboxru/devops-netology/blob/ebdd19ec90eaf0f35f9f6d0cead8b56b78a3c84f/branching/README.md
+
