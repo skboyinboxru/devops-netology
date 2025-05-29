@@ -325,5 +325,5 @@ Fast-forward
 [![Screenshot_59.png](https://s.iimg.su/s/29/ZJpBDMPyrJM46FSBlyL2QNfaqxqCRVPslGaTtRBw.png)](https://iimg.su/i/EiIVno)
 
 
-https://github.com/skboyinboxru/devops-netology/blob/ebdd19ec90eaf0f35f9f6d0cead8b56b78a3c84f/branching/README.md
+
 
